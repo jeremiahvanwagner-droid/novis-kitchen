@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; font-family: 'DM Sans', sans-serif; background: #FEF6EC; }
+#root { width: 100%; max-width: 100%; }
+
