@@ -93,7 +93,7 @@ const slideshows: Slideshow[] = [
         sub: "Sweet and smoky fan favorite — $12/lb",
       },
       {
-        src: "https://images.unsplash.com/photo-1608039858788-667850f129f6?w=800&q=80",
+        src: "/images/wings-platter.jpg",
         caption: "Wings Platter",
         sub: "Mix and match flavors — order by the pound",
       },
