@@ -145,8 +145,8 @@ const slideshows: Slideshow[] = [
       },
       {
         src: "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800&q=80",
-        caption: "Mixed Wing Platter",
-        sub: "All your favorites in one spread",
+        caption: "Strawberry Wings",
+        sub: "Crispy wings tossed in spicy strawberry glaze with a perfect heat kick",
       },
       {
         src: "/images/shrimp-salad.jpg",
