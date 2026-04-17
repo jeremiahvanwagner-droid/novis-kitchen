@@ -172,7 +172,7 @@ const slideshows: Slideshow[] = [
         sub: "Fresh strawberry puree, tart lemon — $5",
       },
       {
-        src: "https://images.unsplash.com/photo-1718030558645-c0988a57af4e?w=800&q=80",
+        src: "/images/blue-raspberry-lemonade.jpg",
         caption: "Blue Raspberry Lemonade",
         sub: "Bold blue raspberry with fresh lemon — $5",
       },
@@ -227,7 +227,7 @@ const categories: Category[] = [
         name: "Mild Wings",
         description: "Gentle seasoning perfect for those who prefer less heat",
         price: "$10/lb",
-        image: "https://images.unsplash.com/photo-1608039858788-667850f129f6?w=800&q=80",
+        image: "/images/mild-wings.jpg",
       },
       {
         name: "Honey BBQ Wings",
@@ -241,7 +241,7 @@ const categories: Category[] = [
         description: "Aromatic curry spices with warm, complex flavors",
         price: "$12/lb",
         hot: true,
-        image: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&q=80",
+        image: "/images/curry-wings.jpg",
       },
       {
         name: "Honey Gold Wings",
@@ -322,7 +322,7 @@ const categories: Category[] = [
         description: "Refreshing blue raspberry with fresh lemon juice, sparkling water, ice",
         price: "$5",
         tag: "House Made",
-        image: "https://images.unsplash.com/photo-1718030558645-c0988a57af4e?w=800&q=80",
+        image: "/images/blue-raspberry-lemonade.jpg",
       },
       {
         name: "Strawberry Lemonade",
