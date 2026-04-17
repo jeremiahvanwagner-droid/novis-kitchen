@@ -83,7 +83,7 @@ const slideshows: Slideshow[] = [
         sub: "Caribbean jerk spices with sweet chile heat — $12/lb",
       },
       {
-        src: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=800&q=80",
         caption: "Lemon Pepper Wings",
         sub: "Zesty lemon and cracked black pepper — $11/lb",
       },
@@ -111,7 +111,7 @@ const slideshows: Slideshow[] = [
         sub: "Garlic lemon butter sauce, fresh parsley — $16/person",
       },
       {
-        src: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
         caption: "Creamy Seafood Alfredo",
         sub: "Shrimp & calamari in parmesan cream — $17/person",
       },
@@ -167,12 +167,12 @@ const slideshows: Slideshow[] = [
     tagline: "House-made pitchers of lemonade and crisp salads to complete your meal.",
     slides: [
       {
-        src: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80",
         caption: "Strawberry Lemonade",
         sub: "Fresh strawberry puree, tart lemon — $5",
       },
       {
-        src: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1718030558645-c0988a57af4e?w=800&q=80",
         caption: "Blue Raspberry Lemonade",
         sub: "Bold blue raspberry with fresh lemon — $5",
       },
@@ -221,13 +221,13 @@ const categories: Category[] = [
         name: "Lemon Pepper Wings",
         description: "Zesty lemon and cracked black pepper coating, bright and tangy",
         price: "$11/lb",
-        image: "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=800&q=80",
       },
       {
         name: "Mild Wings",
         description: "Gentle seasoning perfect for those who prefer less heat",
         price: "$10/lb",
-        image: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1608039858788-667850f129f6?w=800&q=80",
       },
       {
         name: "Honey BBQ Wings",
@@ -241,7 +241,7 @@ const categories: Category[] = [
         description: "Aromatic curry spices with warm, complex flavors",
         price: "$12/lb",
         hot: true,
-        image: "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&q=80",
       },
       {
         name: "Honey Gold Wings",
@@ -281,7 +281,7 @@ const categories: Category[] = [
         name: "Creamy Seafood Alfredo",
         description: "Shrimp and calamari in a luxurious parmesan cream sauce",
         price: "$17/person",
-        image: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
       },
     ],
   },
@@ -322,13 +322,13 @@ const categories: Category[] = [
         description: "Refreshing blue raspberry with fresh lemon juice, sparkling water, ice",
         price: "$5",
         tag: "House Made",
-        image: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1718030558645-c0988a57af4e?w=800&q=80",
       },
       {
         name: "Strawberry Lemonade",
         description: "Fresh strawberry puree blended with tart lemon, perfectly sweet and refreshing",
         price: "$5",
-        image: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?w=800&q=80",
+        image: "https://images.unsplash.com/photo-1595981267035-7b04ca84a82d?w=800&q=80",
       },
       {
         name: "Pineapple Lemonade",
