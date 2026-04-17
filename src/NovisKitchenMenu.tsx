@@ -73,7 +73,7 @@ const slideshows: Slideshow[] = [
     tagline: "Crispy, saucy, and made to order — Novi's wings are the real deal.",
     slides: [
       {
-        src: "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1614398751058-eb2e0bf63e53?w=800&q=80",
         caption: "Honey Gold Wings",
         sub: "Golden honey glaze with savory spices — $13/lb",
       },
@@ -93,7 +93,7 @@ const slideshows: Slideshow[] = [
         sub: "Sweet and smoky fan favorite — $12/lb",
       },
       {
-        src: "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1608039858788-667850f129f6?w=800&q=80",
         caption: "Wings Platter",
         sub: "Mix and match flavors — order by the pound",
       },
@@ -139,12 +139,12 @@ const slideshows: Slideshow[] = [
         sub: "Custom orders for events, parties & gatherings",
       },
       {
-        src: "https://images.unsplash.com/photo-1432139555190-58524dae6a55?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1567620832903-9fc6debc209f?w=800&q=80",
         caption: "Wings & Sides Board",
         sub: "Perfect crowd-pleaser for any party",
       },
       {
-        src: "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=800&q=80",
+        src: "https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800&q=80",
         caption: "Mixed Wing Platter",
         sub: "All your favorites in one spread",
       },
